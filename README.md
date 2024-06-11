@@ -47,5 +47,5 @@ ___
 
 ## License :copyright:
 
-This work is published under the terms of <a href="https://github.com/PedroZappa/ft_printf/blob/master/LICENSE">42 Unlicense</a>.
+This work is published under the terms of <a href="https://github.com/lude-bri/42_Common_Core/blob/main/LICENSE.md">42 Unlicense</a>.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0ABAB5&fontColor=fcf3f2&fontAlignY=65&rotate=0&fontSize=35&section=footer" />
