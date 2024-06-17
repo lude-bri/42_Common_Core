@@ -39,7 +39,7 @@ This repository contains the coursework developed for 42's Common Core.
 
 ## Exams :computer: 
 
-| <a> Exams! </a> |
+| <a> Ranks </a> |
 | ----- |
 | <a href="https://github.com/lude-bri/Exam_Rank2_42_LP">Exam Rank 2</a> |
 
