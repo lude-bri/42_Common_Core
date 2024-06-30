@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0ABAB5&text=42%20Common_Core&fontAlign=50&fontAlignY=61&animation=fadeIn&fontColor=fcf3f2" />
-  
+
 <h3 align=center> Table of Content </h3>
 
 <!-- mtoc-start -->
