@@ -31,8 +31,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## Projects 🏁
@@ -114,8 +112,6 @@
 </table>
 
 </div>
-
----
 
 <div align="center">
 
