@@ -80,28 +80,28 @@
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/pipex_42_LP" alt="Last Commit" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lude-bri/Pipex_42_LP">push_swap</a></td>
+    <td><a href="https://github.com/lude-bri/push_swap_42_LP">push_swap</a></td>
     <td>2</td>
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/push_swap_42_LP" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/push_swap_42_LP" alt="Last Commit" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lude-bri/Pipex_42_LP">FdF</a></td>
+    <td><a href="https://github.com/lude-bri/Fdf_42_LP">FdF</a></td>
     <td>2</td>
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/Fdf_42_LP" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/Fdf_42_LP" alt="Last Commit" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lude-bri/Pipex_42_LP">Philosophers</a></td>
+    <td><a href="https://github.com/lude-bri/Philosophers_42">Philosophers</a></td>
     <td>2</td>
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/Philosophers_42" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/in_progress-yellow" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/Philosophers_42" alt="Last Commit" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lude-bri/Pipex_42_LP">Minishell</a></td>
+    <td><a href="https://github.com/lude-bri/Minishell_42">Minishell</a></td>
     <td>2</td>
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/Minishell_42" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/in_progress-yellow" alt="Score" /></td>
