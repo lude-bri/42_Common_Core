@@ -5,7 +5,6 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" alt="Status: In Progress" />
-    <img src="https://img.shields.io/github/license/lude-bri/42_Common_Core?style=for-the-badge" alt="License: 42 Unlicense" />
   </p>
 
   <h3 align="center">Table of Contents</h3>
