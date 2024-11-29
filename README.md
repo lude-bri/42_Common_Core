@@ -34,6 +34,8 @@ This repository contains the coursework developed for 42's Common Core.
 | <a href="https://github.com/lude-bri/Pipex_42_LP">Pipex</a> | 2    | <img src="https://img.shields.io/github/languages/top/lude-bri/Pipex_42_LP" /> | <img src="https://img.shields.io/badge/115%20%2F%20100%20%E2%98%85-success"/> | <img src="https://img.shields.io/github/last-commit/lude-bri/Pipex_42_LP" /> |
 | <a href="https://github.com/lude-bri/push_swap_42_LP">push_swap</a>| 2 | <img src="https://img.shields.io/github/languages/top/lude-bri/push_swap_42_LP"> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success"> | <img src="https://img.shields.io/github/last-commit/lude-bri/push_swap_42_LP" /> |
 | <a href="https://github.com/lude-bri/FdF_42_LP">FdF</a>| 2 | <img src="https://img.shields.io/github/languages/top/lude-bri/FdF_42_LP"> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success"> | <img src="https://img.shields.io/github/last-commit/lude-bri/FdF_42_LP" /> |
+| <a href="https://github.com/lude-bri/Philosophers_42">Philosophers</a>| 3 | <img src="https://img.shields.io/github/languages/top/lude-bri/Philosophers_42"> | <img src="https://img.shields.io/badge/in_progress-yellow"> | <img src="https://img.shields.io/github/last-commit/lude-bri/Philosophers_42" /> |
+| <a href="https://github.com/lude-bri/Minishell_42">Minishell</a>| 3 | <img src="https://img.shields.io/github/languages/top/lude-bri/Minishell_42"> | <img src="https://img.shields.io/badge/in_progress-yellow"> | <img src="https://img.shields.io/github/last-commit/lude-bri/FdF_42_LP" /> |
 
 </div>
 
