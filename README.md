@@ -107,6 +107,13 @@
     <td><img src="https://img.shields.io/badge/101%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/Minishell_42" alt="Last Commit" /></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/Cub3d_42">Cub3d</a></td>
+    <td>3</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/Cub3d_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/Cub3d_42" alt="Last Commit" /></td>
+  </tr>
 
 </table>
 
