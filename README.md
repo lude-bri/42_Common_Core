@@ -109,10 +109,45 @@
   </tr>
   <tr>
     <td><a href="https://github.com/lude-bri/Cub3d_42">Cub3d</a></td>
-    <td>3</td>
+    <td>4</td>
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/Cub3d_42" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/Cub3d_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp00_42">Cpp00</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp00_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp00_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp01_42">Cpp01</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp01_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp01_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp02_42">Cpp02</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp02_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp02_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp03_42">Cpp03</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp03_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp03_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp04_42">Cpp04</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp04_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp04_42" alt="Last Commit" /></td>
   </tr>
 
 </table>
