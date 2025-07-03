@@ -26,7 +26,7 @@
 
 <p>This repository highlights my progress in the <strong>42 Common Core</strong> program. Below, you'll find completed projects, current work, and insights into my coding journey at 42.</p>
 
-<img src="https://img.shields.io/badge/Challenge%20Accepted-success?style=flat-square&logo=42&logoColor=white" alt="Challenge Accepted" />
+<img src="https://img.shields.io/badge/Challenge%20Accepted-success?style=flat-square&logo=42&logoColor=white" alt="Challenge Accepted!!" />
 
 </div>
 
@@ -155,6 +155,13 @@
     <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp04_42" alt="Language" /></td>
     <td><img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" alt="Score" /></td>
     <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp04_42" alt="Last Commit" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lude-bri/cpp05_42">Cpp05</a></td>
+    <td>4</td>
+    <td><img src="https://img.shields.io/github/languages/top/lude-bri/cpp05_42" alt="Language" /></td>
+    <td><img src="https://img.shields.io/badge/in%20progress%20-FF4500" alt="Score" /></td>
+    <td><img src="https://img.shields.io/github/last-commit/lude-bri/cpp05_42" alt="Last Commit" /></td>
   </tr>
 
 </table>
